@@ -1,7 +1,7 @@
 ; Script gerado pelo Inno Setup Script Wizard - Personalizado para Servus Fidelis
 
 #define MyAppName "Servus Fidelis"
-#define MyAppVersion "1.0.0.1"
+#define MyAppVersion "1.0.0.2"
 #define MyAppPublisher "Servus Fidelis"
 #define MyAppURL "https://www.linkedin.com/in/jonathan-andrietti-ba4bb033/"
 #define MyAppExeName "ServusFidelis.exe"
